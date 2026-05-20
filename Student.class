@@ -1,0 +1,5 @@
+����&#x0;&#x0;&#x0;F&#x0;
+&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;java/lang/Object&#x0;<init>&#x0;()V        &#x0;&#x0;        &#x0;
+&#x0;&#x0;&#x0;Student&#x0;id&#x0;I        &#x0;&#x0;&#x0;&#x0;&#x0;name&#x0;Ljava/lang/String;        &#x0;&#x0;&#x0;&#x0;&#x0;course        &#x0;&#x0;&#x0;&#x0;&#x0;email&#x0;:(ILjava/lang/String;Ljava/lang/String;Ljava/lang/String;)V&#x0;Code&#x0;LineNumberTable&#x0;
+SourceFile&#x0;Student.java&#x0;!&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;F&#x0;&#x0;&#x0;&#x0;&#x0;*�&#x0;*�&#x0;*,�&#x0; *-�&#x0;*�&#x0;�&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;        &#x0;        &#x0;&#x0;
+&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;
